@@ -66,6 +66,7 @@ class Company extends Model
 
 
     /**
+     * @param $value
      * @return mixed
      */
     public function getNameAttribute($value)
